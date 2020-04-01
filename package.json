@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MurayamaKenta/udemy_create_web_app/issues"
   },
-  "homepage": "https://github.com/MurayamaKenta/udemy_create_web_app#readme"
+  "homepage": "https://github.com/MurayamaKenta/udemy_create_web_app#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
 }
